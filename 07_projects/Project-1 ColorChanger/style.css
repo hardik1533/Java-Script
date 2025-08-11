@@ -1,0 +1,54 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #121212;
+    color: white;
+}
+
+h1 {
+    padding-top: 3vh;
+    text-align: center;
+    font-size: 10vh;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#pink {
+    background-color: pink;
+}
+
+.parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20vh;
+    
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+button:hover {
+    height: 90px;
+    width: 90px;
+}
