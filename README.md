@@ -14,7 +14,5 @@ Dive into basics, advanced concepts, and hands-on code examples crafted with pas
 
 ## **Contribute**
 - Fork it, tweak it and send a pull request! 🤝
-
-## **License**
-- MIT License - See [LICENSE](LICENSE) for details. ❤️  
+ 
 **Made by Hardik Vanza | Updated: July 23, 2025, 10:40 PM IST**
